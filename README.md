@@ -57,7 +57,7 @@ The given cropped and rotated image:
  
  
  
-  # Normal cropped and rotated image with feature map: 
+  # Normal cropped and rotated image with feature match: 
  
  ![Alt text](https://github.com/mericdurukan/starmap/blob/main/result_images/starmap_rotated_match.jpg)
 

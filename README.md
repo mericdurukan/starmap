@@ -1,2 +1,2 @@
 # starmap
-![Test Image 1](https://github.com/mericdurukan/starmap/result_images/starmap_normal.jpg)
+![Alt text](https://github.com/mericdurukan/starmap/blob/main/result_images/starmap_normal.jpg)

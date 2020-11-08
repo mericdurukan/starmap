@@ -8,7 +8,7 @@ The codes are tested on Ubuntu 18.04, Python 3.6.9, Opencv 4.4.0
 Open a terminal 
 Then, write: 
 ```
-$ wget https://github.com/mericdurukan/starmap.git
+$ git clone https://github.com/mericdurukan/starmap
 $ cd starmap/python
 $ chmod +x main.py
 $ python3 main.py

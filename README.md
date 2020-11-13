@@ -26,7 +26,7 @@ The main script print out the corner points on the given starmap image.
 
 Note: Please to see the cropped area on the original image, replace the image resizing. My monitor is not capable to see whole starmap image, so I resized the starmap image. However, the corner points are on the orginal image.
 
-# Some Detail Information: 
+# Detail Information: 
 
 
 The given StarMap image: 
